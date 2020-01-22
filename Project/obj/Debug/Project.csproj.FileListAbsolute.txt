@@ -1,0 +1,225 @@
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\user\documents\visual studio 2012\Projects\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\wahid\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\wahid\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\wahid\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\DEMO 1\Demo1 resume\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\DEMO 1\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\New folder\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\New folder\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\New folder\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\Project\Project\bin\Debug\Project.exe.config
+H:\Project\Project\obj\Debug\Project.exe
+H:\Project\Project\obj\Debug\Project.pdb
+H:\Project\Project\bin\Debug\Project.exe
+H:\Project\Project\bin\Debug\Project.pdb
+H:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+H:\Project\Project\obj\Debug\Project.AddNewProduct.resources
+H:\Project\Project\obj\Debug\Project.AddSalesman.resources
+H:\Project\Project\obj\Debug\Project.ChangePassword.resources
+H:\Project\Project\obj\Debug\Project.DeleteInventory.resources
+H:\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+H:\Project\Project\obj\Debug\Project.InventoryList.resources
+H:\Project\Project\obj\Debug\Project.Login.resources
+H:\Project\Project\obj\Debug\Project.ManagerProfile.resources
+H:\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+H:\Project\Project\obj\Debug\Project.PrintReceipt.resources
+H:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+H:\Project\Project\obj\Debug\Project.SoldRecord.resources
+H:\Project\Project\obj\Debug\Project.UpdateInventory.resources
+H:\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+H:\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\Project\Project\bin\Debug\Project.exe.config
+E:\Project\Project\obj\Debug\Project.exe
+E:\Project\Project\obj\Debug\Project.pdb
+E:\Project\Project\bin\Debug\Project.exe
+E:\Project\Project\bin\Debug\Project.pdb
+E:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+E:\Project\Project\obj\Debug\Project.AddNewProduct.resources
+E:\Project\Project\obj\Debug\Project.AddSalesman.resources
+E:\Project\Project\obj\Debug\Project.ChangePassword.resources
+E:\Project\Project\obj\Debug\Project.DeleteInventory.resources
+E:\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+E:\Project\Project\obj\Debug\Project.InventoryList.resources
+E:\Project\Project\obj\Debug\Project.Login.resources
+E:\Project\Project\obj\Debug\Project.ManagerProfile.resources
+E:\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+E:\Project\Project\obj\Debug\Project.PrintReceipt.resources
+E:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+E:\Project\Project\obj\Debug\Project.SoldRecord.resources
+E:\Project\Project\obj\Debug\Project.UpdateInventory.resources
+E:\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+E:\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.PresentationLayer.Form1.resources
+C:\Users\USER\Desktop\DEMO 1 Fianl\Project\Project\obj\Debug\Project.PresentationLayer.DeleteSalesman1.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.PresentationLayer.DeleteSalesman1.resources
+C:\Users\USER\Desktop\wahid\Project\Project\obj\Debug\Project.PresentationLayer.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\New folder (2)\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\New folder (2)\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.PresentationLayer.DeleteSalesman1.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.PresentationLayer.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New folder (2)\Project\Project\bin\Debug\Project.exe.manifest
+C:\Users\USER\Desktop\New folder (2)\Project\Project\bin\Debug\Project.application
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.exe.manifest
+C:\Users\USER\Desktop\New folder (2)\Project\Project\obj\Debug\Project.application
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.PresentationLayer.DeleteSalesman1.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.PresentationLayer.Form1.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.ManagerPasswordChange.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.AddNewProduct.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.AddSalesman.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.DeleteInventory.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.DeleteSalesman.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.InventoryList.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.ManagerProfile.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.ProfitAndLoss.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.PrintReceipt.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.SalesmanProfile.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.SoldRecord.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.UpdateInventory.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.UpdateSalesmanInformation.resources
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project Final\New folder (2)\Project\Project\obj\Debug\Project.pdb
